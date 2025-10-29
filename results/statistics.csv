@@ -1,0 +1,8 @@
+method,mean,std,min,max,dynamic_range
+original,175.56,72.63,16,253,237
+contrast_stretching,164.45,84.40,0,255,255
+histogram_equalization,128.90,74.68,0,255,255
+clahe,172.65,70.88,13,253,240
+noisy_image,173.61,73.43,0,255,255
+gaussian_denoised,173.61,71.23,11,255,244
+median_denoised,174.97,72.63,7,255,248

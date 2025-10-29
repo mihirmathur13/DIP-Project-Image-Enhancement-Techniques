@@ -1,0 +1,7 @@
+method,psnr_db,ssim,comparison_type
+contrast_stretching,23.9398,0.9165,vs_original
+histogram_equalization,13.9157,0.8697,vs_original
+clahe,26.1086,0.9634,vs_original
+noisy_image,22.8060,0.2001,vs_original
+gaussian_denoised,32.2814,0.7599,restoration_quality
+median_denoised,32.8369,0.7617,restoration_quality
